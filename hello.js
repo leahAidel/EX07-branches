@@ -1,7 +1,7 @@
-const a = ()=>{
-    return 10;
+const a = () => {
+    alert("10");
 }
 
-const b = ()=>{
+const b = () => {
     alert("hello!!");
 }
