@@ -7,3 +7,7 @@ const a = () => {
 const b = () => {
     alert("hello!!");
 }
+
+const d = () => {
+    confirm("Who are you?")
+}
